@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1003036895157",
+    "firebase_url": "https://myinstargram.firebaseio.com",
+    "project_id": "myinstargram",
+    "storage_bucket": "myinstargram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003036895157:android:081d45b33d8a1386",
+        "android_client_info": {
+          "package_name": "com.kwang.myinstargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003036895157-kas90t6fu3fpl7ppi5m7ptsrs10jahr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kwang.myinstargram",
+            "certificate_hash": "06a4b4a17e67a5a270e612d9ba8b9569998be066"
+          }
+        },
+        {
+          "client_id": "1003036895157-utvleeq431agh295b19idajk1g0bb25s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqaDM25jNP0DOFSotuoGRZTWXAREXYWB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003036895157-utvleeq431agh295b19idajk1g0bb25s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
